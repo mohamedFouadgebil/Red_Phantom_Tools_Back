@@ -1,4 +1,4 @@
-const API = "https://red-phantom-tools-ecd9.vercel.app/";
+const API = "https://red-phantom-tools-ecd9.vercel.app";
 
 function pickEncryptFile() {
   const input = document.createElement("input");
